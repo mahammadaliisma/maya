@@ -1,6 +1,6 @@
 # Maya - Speech Assistant
 
-<img src="assistant.png" width="200" height="200">
+<img src="picture.png" width="200" height="200">
 
 ### Dependencies
 
